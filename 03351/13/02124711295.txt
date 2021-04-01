@@ -1,1 +1,1 @@
-La temperatura de hoy es de veinte grados centígrados.
+La temperatura de hoy es de veinte grados centigrados.

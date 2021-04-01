@@ -1,1 +1,1 @@
-Quiero saber cuál es la hamburguesa con menos calorías.
+Quiero saber cual es la hamburguesa con menos calorias.
